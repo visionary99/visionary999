@@ -1,0 +1,17 @@
+{
+    "name": "AnimeNight Background Only v1.0",
+    "description": "Random Anime Background... (Dark Mode)",
+    "authors": [
+        {
+            "name": "hieuxyz",
+            "id": "994819569795485747"
+        }
+    ],
+    "background": {
+        "blur": 2.2,
+        "url": "https://www.google.com/search?q=picture+of+berserk+of+gluttony&oq=picture+of+berserk+of+gluttony&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRifBTIHCAIQIRifBTIHCAMQIRifBTIHCAQQIRifBTIHCAUQIRifBTIHCAYQIRifBTIHCAcQIRiPAtIBCDcyODVqMGo5qAIOsAIB8QVeFOnvr6LIw_EFXhTp76-iyMM&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8#vhid=e6dO5YP2Oh6NqM&vssid=_7UDNZ93SHb3e2roPkpDB2A4_56",
+        "alpha": 0.5
+    },
+    "color": "#FF6B8A",
+    "spec": 2
+}
